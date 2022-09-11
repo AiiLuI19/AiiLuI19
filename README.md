@@ -6,7 +6,7 @@
 - 🔭 I am studying at IT School GoIT **Full stack developer (Bootcamp)**
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=RuslanaLogosha&show_icons=true&theme=cobalt">
+<img src="https://github-readme-stats.vercel.app/api?username=AiiLuI19&show_icons=true&theme=cobalt">
 
 ### My stack and tools
 
