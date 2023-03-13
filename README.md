@@ -1,6 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-- ⚡ I’m currently learning **everything I can get my hands on** (now Node.js)
+- ⚡ I’m currently learning **everything I can get my hands on** (now WordPress, PHP)
 - 📫 How to reach me: **iuliiaiavorskaia@gmail.com**
 - 🌟 I Looking to be part of a **friendly and professional team** where I could develop my **JavaScript, React** development skills to achieve team results.
 - 🔭 I am studying at IT School GoIT **Full stack developer (Bootcamp)**
